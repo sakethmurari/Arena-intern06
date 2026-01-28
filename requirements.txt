@@ -1,0 +1,9 @@
+requirements
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+nbformat
